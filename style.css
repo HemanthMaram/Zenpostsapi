@@ -1,0 +1,104 @@
+body{
+   color: rgb(18, 228, 147);;
+   
+  background-color: #001;
+   font-family: courier;
+   
+}
+h1{
+   font-size: 2em;
+   font-weight: bold;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+.card{
+   background-color: #001;
+   border: rgb(18, 228, 147) solid 1px;
+
+}
+#postlink{
+   background-color: #001;
+   color: rgb(18, 228, 147);
+   font-weight: bold;
+   
+   border-style: none;
+   font-size: 1em;
+   align-items: center;
+   
+
+   
+}
+
+.subtitle{
+   color: #fff;
+   font-style: italic;
+   font-weight: bold;
+}
+
+.btn1{
+   float: right;
+}
+
+.arrow{
+   
+   background-color:rgb(18, 228, 147);
+   color: #001;
+   border-radius: 50%;
+   font-weight: 5rem;
+}
+
+
+.posts{
+   color: #fff;
+   font-weight: bold;
+   
+   margin-left: 20px;
+   margin-bottom: 15px;
+}
+#mpage{
+   
+   
+ margin-left: 30%;
+ width: 40%;
+  background-color: #000;
+  font-weight: bold;
+}
+/*background-color: rgba(0, 0, 17, 0.596);*/
+#mul{
+   color: white;
+   
+}
+#action1{
+   background-color: #000;
+}
+#form1{
+   margin-left: 30%;
+ width: 35%;
+  background-color: #000;
+  font-weight: bold;
+  border: 1px solid black;
+}
+#cform{
+   
+  background-color: #000;
+  font-weight: bold;
+  border: 1px solid black;
+  margin-left: 30%;
+  width: 50%;
+}
+#new{
+   font-size: 2em;
+}
+#listd{
+   border : 1px solid rgb(18, 228, 147);
+   font-weight: lighter;
+   font-size: 0.8em;
+   height: 13ex;
+   background-color: #000;
+
+   
+}
+#whiteit{
+   color: #fff;
+   font-weight: bold;
+}
