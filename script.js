@@ -86,7 +86,7 @@ function display(data) {
   ele.setAttribute("class", "row");
 
   data.forEach((element) => {
-    ele.innerHTML += `<div class="col-3 lg  mb-3 ">
+    ele.innerHTML += `<div class="col-sm-3 lg  mb-3 ">
        <div class ="card h-100 w-100" onclick = "commentpage(${element.id})" onclick="commentsbox(${element.id})" data-toggle="modal" data-target="#action1" >
        <div class="card-body" >
        <h5 class="card-title qtitle fw-bold">${element.Title}</h5>
